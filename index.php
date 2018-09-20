@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-echo 'dit is een tekst!!!!!!!!!!!!
+echo 'dit is een tekst!!!!!!!!!!!!'
 ?>
 <p>test test test test</p>
 </body>
